@@ -1,0 +1,29 @@
+{
+  "name": "learningAngularJS",
+  "version": "0.0.1",
+  "homepage": "https://github.com/eumendoza/learningAngularJStuto",
+  "authors": [
+    "Eugenio Mendoza"
+  ],
+  "description": "Tutorials from Learning AngularJS book",
+  "main": "index.html",
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angularjs": "~1.4.1",
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5",
+    "angular-route": "~1.4.1",
+    "angular-cookies": "~1.4.1",
+    "angular-resource": "~1.4.1"
+  }
+}
